@@ -91,7 +91,7 @@ h4 {
     position: relative;
     width: calc(var(--index) * var(--side-small));
     height: calc(var(--index) * var(--side-big));
-    background-position: center;
+    background-position: top center;
     background-size: cover;
 }
 
